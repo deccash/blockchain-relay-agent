@@ -1,5 +1,5 @@
-# TurtlePay®: Blockchain Relay Agent
-![Version](https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000) ![Prerequisite](https://img.shields.io/badge/node-%3E%3D6-blue.svg) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/TurtlePay/blockchain-relay-agent/graphs/commit-activity) [![License: AGPL-3.0](https://img.shields.io/badge/license-AGL--3.0-yellow.svg)](https://github.com/TurtlePay/blockchain-relay-agent/blob/master/LICENSE) [![Twitter: TurtlePay](https://img.shields.io/twitter/follow/TurtlePay.svg?style=social)](https://twitter.com/TurtlePay)
+# DecCash®: Blockchain Relay Agent
+![Version](https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000) ![Prerequisite](https://img.shields.io/badge/node-%3E%3D6-blue.svg) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/DecCash/blockchain-relay-agent/graphs/commit-activity) [![License: AGPL-3.0](https://img.shields.io/badge/license-AGL--3.0-yellow.svg)](https://github.com/DecCash/blockchain-relay-agent/blob/master/LICENSE) [![Twitter: DecCash](https://img.shields.io/twitter/follow/DecCash.svg?style=social)](https://twitter.com/DecCash)
 
 > RabbitMQ agent that relays information to/from TurtleCoind to interact with the TurtleCoin® network.
 
@@ -47,16 +47,16 @@ npm test
 
 ## Author
 
-👤 **TurtlePay® Development Team**
+👤 **DecCash® Development Team**
 
-* Twitter: [@TurtlePay](https://twitter.com/TurtlePay)
-* Github: [@TurtlePay](https://github.com/TurtlePay)
+* Twitter: [@DecCash](https://twitter.com/DecCash)
+* Github: [@DecCash](https://github.com/DecCash)
 
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check [issues page](https://github.com/TurtlePay/blockchain-relay-agent/issues).
+Feel free to check [issues page](https://github.com/DecCash/blockchain-relay-agent/issues).
 
 ## Show your support
 
@@ -65,6 +65,6 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright © 2018-2019 [TurtlePay® Development Team](https://github.com/TurtlePay).
+Copyright ©2020 [DecCash® Development Team](https://github.com/DecCash).
 
-This project is [AGPL-3.0](https://github.com/TurtlePay/blockchain-relay-agent/blob/master/LICENSE) licensed.
+This project is [AGPL-3.0](https://github.com/DecCash/blockchain-relay-agent/blob/master/LICENSE) licensed.
